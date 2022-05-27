@@ -11,7 +11,7 @@ class Array1
 		
 		for(int i = 0; i<=4; i++)
 		{
-			System.out.println("Array = " +a1[i]);
+			System.out.println("Array1 = " +a1[i]);
 		}
 	}
 }
